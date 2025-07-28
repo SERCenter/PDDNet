@@ -16,7 +16,7 @@
 **PDDNet** is an unsupervised-learning-based deep learning framework for attenuating abnormal environmental noise in pre-stack shot gathers, improving the seismic imaging quality. This framework can be used for 2D and 3D seismic data. 
 
 <p align="center">
-  <img src="[https://i.imgur.com/6W5X07L.gif](https://i.imgur.com/6W5X07L.gif)" alt="" />
+  <img src="。/Figure/Ludvika_demo.mp4" alt="" />
 </p>
 ------------------- 
 ## Reference
