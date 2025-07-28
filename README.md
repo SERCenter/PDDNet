@@ -18,7 +18,7 @@
 ## Examples
 
 <p align="center">
-<img src='https://github.com/SERCenter/PDDNet/blob/main/Figure/Ludvika_demo0.gif' alt='comp' width=50/>
+<img src='https://github.com/SERCenter/PDDNet/blob/main/Figure/Ludvika_demo0.gif' alt='comp' style="width:70%; height:auto;" />
 </p>
 
 Comparison before and after denoising in a shot gather
@@ -26,7 +26,7 @@ Comparison before and after denoising in a shot gather
 ------------------- 
 
 <p align="center">
-<img src='https://github.com/SERCenter/PDDNet/blob/main/Figure/Unmigrited_data0.gif' alt='comp' style="width:60%; height:auto;"  />
+<img src='https://github.com/SERCenter/PDDNet/blob/main/Figure/Unmigrited_data0.gif' alt='comp' style="width:70%; height:auto;"  />
 </p>
 
 Seismic sections after conventional processing workflow and proposed network processing workflow.
