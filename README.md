@@ -1,12 +1,12 @@
 ## Demo code for:
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/PDDNet?style=plastic)    
-![GitHub stars](https://img.shields.io/github/stars/YangLiuqing-add/PDDNet?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/SERCenter/PDDNet?style=plastic)    
+![GitHub stars](https://img.shields.io/github/stars/SERCenter/PDDNet?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/PDDNet?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/PDDNet?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/PDDNet?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SERCenter/PDDNet?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/SERCenter/PDDNet?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/SERCenter?style=social)
 
 **Enhanced Hardrock Seismic Imaging through Multi-Scale Information-Guided Unsupervised Learning**
 ======
@@ -16,7 +16,7 @@
 **PDDNet** is an unsupervised-learning-based deep learning framework for attenuating abnormal environmental noise in pre-stack shot gathers, improving the seismic imaging quality. This framework can be used for 2D and 3D seismic data. 
 
 <p align="center">
-  <img src="https://i.imgur.com/6W5X07L" alt="" />
+  <img src="https://i.imgur.com/6W5X07L.gif" alt="" />
 </p>
 ------------------- 
 ## Reference
